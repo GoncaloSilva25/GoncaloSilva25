@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GoncaloSilva25&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GoncaloSilva25&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloSilva25&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloSilva25&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GoncaloSilva25&icon=2&color=1)](https://visitcount.itsvg.in)
