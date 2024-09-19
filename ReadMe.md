@@ -7,8 +7,8 @@
 
 # 💻 Tech Stack:
 [![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -40,7 +40,3 @@
 # 🎵 Spotify Playing:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=goncassilva02&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=b14eae&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=goncassilva02&redirect=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=GoncaloSilva25&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
