@@ -38,5 +38,5 @@
 
 ---
 # 🎵 Spotify Playing:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=goncassilva02&cover_image=true&theme=novatorem&show_offline=true&background_color=neon&interchange=true&bar_color=ff1af7&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=goncassilva02&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=goncassilva02&cover_image=true&theme=novatorem&show_offline=false&background_color=neon&interchange=true&bar_color=ff1af7&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=goncassilva02&redirect=true)
 
