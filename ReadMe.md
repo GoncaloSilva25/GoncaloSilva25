@@ -30,11 +30,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GoncaloSilva25&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GoncaloSilva25&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloSilva25&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
 ---
 # 🎵 Spotify Playing:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=goncassilva02&cover_image=true&theme=novatorem&show_offline=false&background_color=neon&interchange=true&bar_color=ff1af7&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=goncassilva02&redirect=true)
