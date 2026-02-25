@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working @Cap4Lab Portugal as an Integration Engineer<br>
+Currently learning about Azure Integration Services, Mulesoft, and API Management.<br>
 
 
 ## 🌐 Socials:
@@ -28,6 +29,8 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Mulesoft](https://img.shields.io/badge/Mulesoft-%23FF0000.svg?style=for-the-badge&logo=mulesoft&logoColor=white)](https://www.mulesoft.com/)
+[![Azure Integration Services](https://img.shields.io/badge/Azure%20Integration%20Services-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/services/integration/)
 
 ---
 # 🎵 Spotify Playing:
