@@ -27,7 +27,3 @@ Currently learning about Azure Integration Services, Mulesoft, and API Managemen
 [![Mulesoft](https://img.shields.io/badge/Mulesoft-%23FF0000.svg?style=for-the-badge&logo=mulesoft&logoColor=white)](https://www.mulesoft.com/)
 [![Azure Integration Services](https://img.shields.io/badge/Azure%20Integration%20Services-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/services/integration/)
 
----
-# 🎵 Spotify Playing:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=goncassilva02&cover_image=true&theme=novatorem&show_offline=false&background_color=neon&interchange=true&bar_color=ff1af7&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=goncassilva02&redirect=true)
-
